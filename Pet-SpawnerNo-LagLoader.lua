@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/xZgiMHxz/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLag-id-s/Candyblossomhopper/refs/heads/main/LoaderV2.lua"))()
